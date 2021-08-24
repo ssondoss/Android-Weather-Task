@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">weather-task</string>
+    <string name="api">https://api.weatherapi.com/v1/current.json?key=961854ef39674022b9d123847212208&amp;q=</string>
+
+    <string name="Amman">Amman</string>
+    <string name="Irbid">Irbid</string>
+    <string name="AsSalt">As Salt</string>
+    <string name="Zarqa">Zarqa</string>
+    <string name="Madaba">Madaba</string>
+    <string name="Jerash">Jerash</string>
+    <string name="Tafila">Tafila</string>
+    <string name="AlKarak">Al-Karak</string>
+    <string name="Ajlun">Ajlun</string>
+    <string name="Mafraq">Mafraq</string>
+    <string name="Aqaba">Aqaba</string>
+    <string name="Maan">Ma"an</string>
+
+    <string-array name="cities">
+        <item>@string/Amman</item>
+        <item>@string/Irbid</item>
+        <item>@string/AsSalt</item>
+        <item>@string/Irbid</item>
+        <item>@string/Zarqa</item>
+        <item>@string/Madaba</item>
+        <item>@string/Jerash</item>
+        <item>@string/Tafila</item>
+        <item>@string/AlKarak</item>
+        <item>@string/Ajlun</item>
+        <item>@string/Mafraq</item>
+        <item>@string/Aqaba</item>
+        <item>@string/Maan</item>
+    </string-array>
+</resources>
